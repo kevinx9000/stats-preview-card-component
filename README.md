@@ -6,13 +6,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -21,13 +21,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-
-### Screenshot
-
-![](my-screenshots/my-mobile-screenshot-375.png)
-![](my-screenshots/my-desktop-screenshot-1440.png)
-
-
 
 ### Links
 
@@ -61,3 +54,11 @@ Need to learn use CSS Grid so that I'm not overly reliant on Flexbox; learn how 
 - Frontend Mentor - [@kevinx9000](https://www.frontendmentor.io/profile/kevinx9000)
 - Portfolio site - [www.kevinherrmann.quest](https://kevinherrmann.quest)
 
+### Updates
+
+- 10.09.23 -- Revised and refactored
+
+## My Screenshots
+
+![](my-screenshots/my-mobile-screenshot-375.png)
+![](my-screenshots/my-desktop-screenshot-1440.png)
