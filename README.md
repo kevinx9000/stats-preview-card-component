@@ -24,13 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](my-mobile-screenshot.png)
-![](my-desktop-screenshot.png)
+![](my-screenshots/my-mobile-screenshot-375.png)
+![](my-screenshots/my-desktop-screenshot-1440.png)
+
+
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/kevinx9000/stats-preview-card-component)
-- Live Site URL: [Live Site](https://kevinx9000.github.io/stats-preview-card-component)
+- Solution URL: [https://github.com/kevinx9000/stats-preview-card-component](https://github.com/kevinx9000/stats-preview-card-component)
+- Live Site URL: [https://kevinx9000.github.io/stats-preview-card-component](https://kevinx9000.github.io/stats-preview-card-component)
 
 ## My process
 
@@ -57,4 +59,5 @@ Need to learn use CSS Grid so that I'm not overly reliant on Flexbox; learn how 
 ## Author
 
 - Frontend Mentor - [@kevinx9000](https://www.frontendmentor.io/profile/kevinx9000)
+- Portfolio site - [www.kevinherrmann.quest](https://kevinherrmann.quest)
 
