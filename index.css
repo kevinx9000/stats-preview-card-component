@@ -6,8 +6,6 @@
     --stats: hsl(0, 0%, 100%);
     --main-paragraph: hsla(0, 0%, 100%, 0.75);
     --stat-headings: hsla(0, 0%, 100%, 0.6);
-    /* font */
-    --base-font-size: 15px;
 }
 
 /* RESET STYLES */
@@ -58,6 +56,7 @@ picture > img {
 .text-container {
     text-align: center;
     margin: 0 auto;
+    padding: 30px 20px;
 }
 
 .heading {
@@ -116,10 +115,6 @@ picture > img {
     .card-container {
         width: 85%;
         max-width: 640px;
-    }
-
-    .text-container {
-        padding: 30px 20px;
     }
 }
 
